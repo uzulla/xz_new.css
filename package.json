@@ -5,12 +5,12 @@
   "main": "new.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xz/new.css.git"
+    "url": "git+https://github.com/uzulla/xz_new.css.git"
   },
   "author": "Example",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xz/new.css/issues"
+    "url": "https://github.com/uzulla/xz_new.css/issues"
   },
-  "homepage": "https://newcss.net"
+  "homepage": "https://github.com/uzulla/xz_new.css"
 }

@@ -1,8 +1,15 @@
-# new.css
+# uz.new.css
 
-[![](https://data.jsdelivr.com/v1/package/npm/@exampledev/new.css/badge?style=rounded)](https://www.jsdelivr.com/package/npm/@exampledev/new.css)  [![Discord](https://img.shields.io/discord/711011676702376001?color=7289DA&logo=discord&logoColor=fff)](https://discord.gg/hhuuC4w) ![GitHub stars](https://img.shields.io/github/stars/xz/new.css?style=social)
+This is uzulla's tiny mod on new.css
 
-# new.css
+Original is https://github.com/xz/new.css . This is fork repo.
+
+## diff from original.
+
+- fix bug in dark mode around `--nc-lk-tx`.
+- remove fix body width.
+
+# original new.css
 
 A classless CSS framework to write modern websites using only HTML. It weighs **4.8kb**.
 
